@@ -79,6 +79,11 @@
             "url": "https://daddylive.dad",
             "enabled": "1"
         }
+        "Eurostreaming":{
+            "url": "https://eurostreaming.garden",
+            "enabled": "1",
+            "ES_ForwardProxy": "0",
+            "ES_PROXY": "0"
     },
     "General": {
         "load_env": "0",
